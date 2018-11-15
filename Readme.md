@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [TimePickerDropDownTemplate.cs](./CS/WebSite/App_Code/TimePickerDropDownTemplate.cs) (VB: [TimePickerDropDownTemplate.vb](./VB/WebSite/App_Code/TimePickerDropDownTemplate.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [TimePicker.ascx](./CS/WebSite/TimePicker.ascx) (VB: [TimePicker.ascx](./VB/WebSite/TimePicker.ascx))
+* [TimePicker.ascx.cs](./CS/WebSite/TimePicker.ascx.cs) (VB: [TimePicker.ascx](./VB/WebSite/TimePicker.ascx))
+<!-- default file list end -->
 # How to create a TimePicker control using the ASPxDropDownEdit control
 
 
