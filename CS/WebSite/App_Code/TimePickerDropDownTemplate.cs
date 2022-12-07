@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Web.UI;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxEditors;
 
 public class TimePickerDropDownTemplate : ITemplate {
     int startTime;

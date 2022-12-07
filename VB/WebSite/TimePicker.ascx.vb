@@ -2,7 +2,7 @@
 Imports System
 Imports System.Collections.Generic
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Partial Public Class WebUserControl
 	Inherits System.Web.UI.UserControl

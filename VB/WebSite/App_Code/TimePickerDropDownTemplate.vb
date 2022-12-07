@@ -2,9 +2,8 @@
 Imports System
 Imports System.Collections.Generic
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxEditors
 
 Public Class TimePickerDropDownTemplate
 	Implements ITemplate
