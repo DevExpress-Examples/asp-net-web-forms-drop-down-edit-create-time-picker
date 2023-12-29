@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Drop Down Edit for ASP.NET Web Forms - How to create a time picker control
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128531404/)**
-<!-- run online end -->
 
 This example demonstrates how to create a TimePicker control based on the [ASPxDropDownEdit](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDropDownEdit) control.
 
