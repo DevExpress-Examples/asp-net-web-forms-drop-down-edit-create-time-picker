@@ -13,9 +13,6 @@
 * [TimePicker.ascx.cs](./CS/WebSite/TimePicker.ascx.cs) (VB: [TimePicker.ascx.vb](./VB/WebSite/TimePicker.ascx.vb))
 <!-- default file list end -->
 # How to create a TimePicker control using the ASPxDropDownEdit control
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128531404/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to create a TimePicker control using the ASPxDropDownEdit control.</p><br />
