@@ -82,7 +82,7 @@ Public Class TimePickerDropDownTemplate
 		End Get
 	End Property
 
-	Public Sub InstantiateIn(ByVal container As Control)
+	Public Sub InstantiateIn(ByVal container As Control) Implements ITemplate.InstantiateIn
 		Me.container_Conflict = container
 
 		Dim mainTable As New Table()
